@@ -54,7 +54,7 @@
     "node-html-parser": "^6.1.5",
     "ofetch": "^1.0.1",
     "picocolors": "^1.0.0",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.6",
     "unconfig": "^0.3.7",
     "yargs": "^17.7.1"
   },
